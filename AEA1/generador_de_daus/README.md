@@ -4,5 +4,5 @@ Aplicació amb un menú per **seleccionar quantes cares** volem que tingui el da
 
 > ⚠️ **Aplicació en desenvolupament**
 <p align="center">
-    <img src="imatges/AEA1/generador_daus.png" width="300">
+    <img src="../../imatges/AEA1/generador_daus.png" width="300">
 </p>
