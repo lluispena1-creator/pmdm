@@ -1,4 +1,5 @@
-# BMI amb Jetpack Composer
+# Calculadora de BMI amb Jetpack Compose
 
-IDE utilitzat: Android Studio
-Llenguatge: Kotlin i XML
+Aplicació Android per a calcular l'Índex de Massa Corporal (BMI), desenvolupada amb Jetpack Compose.
+
+> ⚠️ **Estat del projecte:** Pendent d'estilar.
