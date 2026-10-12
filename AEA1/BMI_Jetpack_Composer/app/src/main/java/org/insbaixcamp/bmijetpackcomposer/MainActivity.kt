@@ -5,7 +5,6 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextField
@@ -15,8 +14,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import org.insbaixcamp.bmijetpackcomposer.ui.theme.BMIJetpackComposerTheme
 import androidx.compose.runtime.mutableStateOf
-import android.R.attr.label
-import android.R.attr.value
 import android.annotation.SuppressLint
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Column
@@ -24,8 +21,6 @@ import androidx.compose.material3.Button
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
 import androidx.compose.material3.Slider
-import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 
 class MainActivity : ComponentActivity() {
     @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
