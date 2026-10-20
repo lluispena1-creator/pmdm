@@ -2,9 +2,16 @@
 
 Aplicació Android per a calcular l'Índex de Massa Corporal (BMI), desenvolupada amb Jetpack Compose.
 
-> ⚠️ **Estat del projecte:** Pendent d'estilar.
+> 🖍️ **Disseny del projecte:** 
 
-<p align="center">
-    <img src="../../imatges/AEA1/BMICalculator_jetpack.png" width="300">
-</p>
+| Interfície Material 3 | Interfície Còmic / Bola de Drac |
+| :---: | :---: |
+|<img src="../../imatges/AEA1/Calculadora_imc_material3.png" width="300"> |<img src="../../imatges/AEA1/Calculadora_imc_comic_bola_de_drac.png" width="300"> |
 
+---
+
+## 🛠️ Tecnologies Utilitzades
+
+- **Llenguatge:** [Kotlin](https://kotlinlang.org/)
+- **UI Framework:** [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- **Disseny:** Material Design 3
